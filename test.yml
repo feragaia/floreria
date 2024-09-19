@@ -1,0 +1,12 @@
+name : Hola mundo
+
+on: [push]
+
+jobs:
+  aporte: 
+    runs-on: ubuntu-latest
+   
+    step: 
+      name: Hola Mundo
+      run: echo "Hola mundo"
+      

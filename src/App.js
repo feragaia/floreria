@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cambiando el contenido de app.js
+          Cambiando el contenido de app.js;
+          Ahora con Yaml
         </p>
         <a
           className="App-link"
